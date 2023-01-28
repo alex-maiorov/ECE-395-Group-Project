@@ -142,7 +142,7 @@
     (uuid 81e0e8ab-ceba-4822-89e3-0e528b8394ee)
     (property "Reference" "U?" (id 0) (at 135.382 50.3895 0))
     (property "Value" "SX1262IMLTRT" (id 1) (at 135.382 53.1646 0))
-    (property "Footprint" "QFN50P400X400X100-25N" (id 2) (at 135.382 82.296 0)
+    (property "Footprint" "SX1262:QFN50P400X400X100-25N" (id 2) (at 135.382 82.296 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 135.382 82.296 0)

@@ -24,4 +24,10 @@
     (path "/" (page "1"))
     (path "/61fae217-e18a-4e68-8630-42cc06a8ba2f" (page "2"))
   )
+
+  (symbol_instances
+    (path "/61fae217-e18a-4e68-8630-42cc06a8ba2f/81e0e8ab-ceba-4822-89e3-0e528b8394ee"
+      (reference "U?") (unit 1) (value "SX1262IMLTRT") (footprint "QFN50P400X400X100-25N")
+    )
+  )
 )
