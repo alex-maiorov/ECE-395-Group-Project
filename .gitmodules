@@ -1,0 +1,3 @@
+[submodule "Hardware/libs/symbols/ESP-Symbols"]
+	path = Hardware/libs/symbols/ESP-Symbols
+	url = git@github.com:espressif/kicad-libraries.git
