@@ -38,10 +38,10 @@
 SFE_UBLOX_GNSS myGNSS;
 long lastTime = 0; //Simple local timer. Limits amount if I2C traffic to u-blox module.
 
-String lat;
-String lon;
-String alt;
-String SIV;
+String lat = "0";
+String lon = "0";
+String alt = "0";
+String SIV = "0";
 
 
 #include "painlessMesh.h"
